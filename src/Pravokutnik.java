@@ -6,4 +6,7 @@ public class Pravokutnik {
         this.stranica01 = stranica01;
         this.stranica02 = stranica02;
     }
+
+    public void Povrsina() {}
+    public void Opseg() {}
 }

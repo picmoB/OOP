@@ -8,4 +8,7 @@ public class Trokut {
         this.stranica01 = stranica01;
         this.stranica03 = stranica03;
     }
+
+    public void Povrsina() {}
+    public void Opseg() {}
 }

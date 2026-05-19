@@ -4,4 +4,7 @@ public class Krug {
     public Krug(double radijus) {
         this.radijus = radijus;
     }
+
+    public void Povrsina() {}
+    public void Opseg() {}
 }
